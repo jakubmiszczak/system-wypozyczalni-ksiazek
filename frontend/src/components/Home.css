@@ -1,0 +1,17 @@
+.home {
+  text-align: center;
+}
+
+.home ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.home li {
+  padding: 10px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.home li:last-child {
+  border-bottom: none;
+}

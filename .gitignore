@@ -1,0 +1,7 @@
+# IntelliJ / IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
